@@ -7,7 +7,7 @@ This is an empty IG
 This ImplementationGuide is published in the following locations:
 
 Continuous Build: __http://costateixeira.github.io/ig4testing/branches/main/index.html__  
-Canonical / permanent URL: 
+Canonical / permanent URL: __http://costateixeira.github.io/ig4testing/index.html__ 
 <br> </br>
 
 ### Issues
